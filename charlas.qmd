@@ -1,0 +1,34 @@
+---
+title: "Charlas"
+subtitle: "Presentaciones, seminarios y ponencias invitadas"
+---
+
+1. **"Lorem ipsum dolor sit amet, consectetur"**  
+   *International Conference on R and Data Science (R-Con 2025)* — Madrid, España (Mayo 2025).
+
+2. **"Sed do eiusmod tempor incididunt ut labore"**  
+   *Congreso Latinoamericano de Bioestadística* — Ciudad de México, México (Marzo 2025).
+
+3. **"Ut enim ad minim veniam, quis nostrud"**  
+   *Simposio Internacional de Genómica Computacional* — Buenos Aires, Argentina (Noviembre 2024).
+
+4. **"Duis aute irure dolor in reprehenderit"**  
+   *Workshop de Inferencia Bayesiana Aplicada* — Santiago, Chile (Agosto 2024).
+
+5. **"Excepteur sint occaecat cupidatat non proident"**  
+   *Encuentro Nacional de Usuarios de R* — Bogotá, Colombia (Junio 2024).
+
+6. **"Nemo enim ipsam voluptatem quia voluptas"**  
+   *Seminario de Investigación Universitaria* — Lima, Perú (Febrero 2024).
+
+7. **"Neque porro quisquam est, qui dolorem ipsum"**  
+   *Conference on Complex Data Analysis* — Sao Paulo, Brasil (Octubre 2023).
+
+8. **"Quis autem vel eum iure reprehenderit"**  
+   *Taller de Modelos Mixtos Avanzados* — Montevideo, Uruguay (Julio 2023).
+
+9. **"At vero eos et accusamus et iusto"**  
+   *Symposium on Open Science & R Packages* — Valencia, España (Abril 2023).
+
+10. **"Nam libero tempore, cum soluta nobis"**  
+    *Coloquio de Matemáticas Aplicadas* — CDMX, México (Noviembre 2022).

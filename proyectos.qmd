@@ -1,0 +1,11 @@
+---     
+title: "Proyectos académicos"
+---
+
+1. **"PAPIME 2026: "**. 
+*Visualizador de interactivo de estadísticos para el análisis de la pobreza*. 
+[" Abrir"](http://127.0.0.1:5326){style="color: red;" target="_blank"}
+
+
+2. **"Lorem ipsum dolor sit amet, consectetur"**. 
+*International Conference on R and Data Science (R-Con 2025)* — Madrid, España (Mayo 2025).

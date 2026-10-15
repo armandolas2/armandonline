@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Armando Negrete"
+  navbar:
+    background: primary
+    search: true
+    right:
+      - href: armandoline.qmd
+        text: "Inicio"
+      - href: publicaciones.qmd
+        text: "Publicaciones"
+      - href: charlas.qmd
+        text: "Charlas"
+      - href: proyectos.qmd
+        text: "Proyectos"
+      - href: miscelanea.qmd
+        text: "Miscelanea"
+
+format:
+  html:
+    theme: sandstone
+    toc: true
+    code-copy: true
+    execute:
+      warning: false

@@ -1,0 +1,30 @@
+---
+title: "Armando Negrete"
+subtitle: ""
+about:
+  template: trestles
+  image: profileV.jpg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/armandolas2
+    - icon: envelope
+      text: Email
+      href: mailto:anegrete@iiec.unam.mx
+---
+
+## Biografía
+
+Es profesor en la Facultad de Ciencias Políticas y Sociales de la UNAM
+y Técnico Académico en el Instituto de Investigaciones Económicas, 
+en el área de Economía Política del Desarrollo 
+Su investigación se centra en [...]
+
+## Educación
+
+- **Ph.D. en Estudios Latinoamericanos** \| Universidad Nacional Autónoma de México (2026).
+- **M.Sc. en Estudios Latinoamericanos** \| Universidad Nacional Autónoma de México (2015).
+- **B.Sc. en Economía** \| Universidad Nacional Autónoma de México (2010).

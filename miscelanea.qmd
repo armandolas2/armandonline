@@ -1,0 +1,27 @@
+---
+title: "Miscelanea"
+subtitle: "Otras publicaciones y notas de difusión"
+---
+
+**CLACSO** 
+  
+1. **"Lorem ipsum dolor sit amet, consectetur"**  
+  *International Conference on R and Data Science (R-Con 2025)* — Madrid, España (Mayo 2025).
+
+2. **"Sed do eiusmod tempor incididunt ut labore"**  
+  *Congreso Latinoamericano de Bioestadística* — Ciudad de México, México (Marzo 2025).
+
+3. **"Ut enim ad minim veniam, quis nostrud"**  
+  *Simposio Internacional de Genómica Computacional* — Buenos Aires, Argentina (Noviembre 2024).
+
+
+**OTROS**
+
+1. **"Lorem ipsum dolor sit amet, consectetur"**  
+  *International Conference on R and Data Science (R-Con 2025)* — Madrid, España (Mayo 2025).
+
+2. **"Sed do eiusmod tempor incididunt ut labore"**  
+  *Congreso Latinoamericano de Bioestadística* — Ciudad de México, México (Marzo 2025).
+
+3. **"Ut enim ad minim veniam, quis nostrud"**  
+  *Simposio Internacional de Genómica Computacional* — Buenos Aires, Argentina (Noviembre 2024).
